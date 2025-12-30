@@ -3,7 +3,7 @@
 Sejam muito Bem Vindos ao meu repositório. Aqui vocês irão encontrar tudo sobre tecnologia incluindo meus projetos pessoais e de trabalho.
 
 
-Sou desenvolvedor fullstack com sólida experiência em Linux, estou migrando para a área de dados.
+Sou desenvolvedor fullstack com sólida experiência em Linux, estou migrando para a área de dados. Sou formado em Ciência de Dados pela Escola DNC, graduado em Análise e Desenvolvimento de Sistemas e Pós-Graduado em Tecnologia para Aplicações Web e Mobile e em breve estarei cursando meu Mestrado!
 
 💻 Comecei na área de tecnologia desde 2003, comecei com Linux Desktop, depois servidores Linux e um pouco de JAVA; pois nessa época ainda não trabalhava como dev.
 Comecei com programação em 2015 quando fui cursar Análise de Sistemas, em seguida cursei pós graduação em Tecnologia para Aplicações Web e Mobile e hoje estou terminando minha certificação em Cientista de Dados.
