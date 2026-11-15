@@ -100,7 +100,9 @@ Nas horas vagas, sou fascinado pelo desenvolvimento de games. Até hoje me desaf
 | Status | Linguagens Mais Usadas |
 | :---: | :---: |
 | ![GitHub Stats](https://vercel.app) | ![Top Langs](https://vercel.app) |
-
+  
+![GitHub Stats Card](https://ghstats.dev/api/card?yceman=octocat&theme=catppuccin)
+  
 ### 📈 Contribuições
 [![GitHub Streak](https://demolab.com)](https://git.io)
 
