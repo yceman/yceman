@@ -101,9 +101,9 @@ Golang	![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Infraestrutura & Sistema Operacional
-![Linux](https://shields.io)
-![Fedora](https://shields.io)
-![Bash Script](https://shields.io)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)
 
 ---
   
@@ -127,9 +127,9 @@ Golang	![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo
 
 ## 🔗 Vamos nos conectar?
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Portfólio](https://shields.io)](https://behance.net)
-[![X / Twitter](https://shields.io)](https://x.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://behance.net/gamelabb)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)](https://x.com)
 
 ---
 
