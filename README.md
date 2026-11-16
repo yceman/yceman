@@ -84,9 +84,9 @@ Nas horas vagas, sou fascinado pelo desenvolvimento de games. Até hoje me desaf
 
 ### Bancos de Dados & Cache
 ![PostgreSQL](https://shields.io)
-![MongoDB](https://shields.io)
-![Cassandra](https://shields.io)
-![Redis](https://shields.io)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Infraestrutura & Sistema Operacional
 ![Linux](https://shields.io)
