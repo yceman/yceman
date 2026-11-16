@@ -103,7 +103,10 @@ Nas horas vagas, sou fascinado pelo desenvolvimento de games. Até hoje me desaf
 | :---: | :---: |
 | ![GitHub Stats](https://vercel.app) | ![Top Langs](https://vercel.app) |
   
-![GitHub Stats Card](https://ghstats.dev/api/card?username=yceman&theme=catppuccin)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=yceman&theme=catppuccin)  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yceman&theme=catppuccin-mocha&border_radius=7)](https://git.io/streak-stats)
+  
   
 ### 📈 Contribuições
 [![GitHub Streak](https://demolab.com)](https://git.io)
