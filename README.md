@@ -97,7 +97,7 @@ Nas horas vagas, sou fascinado pelo desenvolvimento de games. Até hoje me desaf
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![ScikitLearn](https://shields.io)
 ![Plotly](https://shields.io)
-![PowerBI](https://shields.io)
+![PowerBI](https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)  
 
 ### ML AI  
