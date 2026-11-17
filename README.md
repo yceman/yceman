@@ -140,9 +140,9 @@ Nas horas vagas, sou fascinado pelo desenvolvimento de games. Até hoje me desaf
 
 ## 🔗 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://behance.net/gamelabb)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)](https://x.com)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/darkkghost)
 
 ---
 
